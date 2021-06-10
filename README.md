@@ -4,6 +4,7 @@ The notebooks are as follows:
 1. `Ensembles-Preliminaries`: Code demonstrating the impact of ensemble size and diversity on accuracy.
 2. `Ensembles-Bagging`: Code for bagging and random subspace ensembles.
 3. `Ensembles-RandomF`: Using random forest to generate feature importance scores and OOB estimates of generalisation accuracy.
+4. `Ensembles-Boosting`: A simple AdaBoost example to illustrate the internal workings.
 
 `ensemble-functiions.py`: helper functions required by some of the notebooks. 
 

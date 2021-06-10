@@ -2,6 +2,9 @@
 Python notebooks to accompany the paper `A Tutorial on Ensembles in Machine Learningwith Python Examples`.  
 The notebooks are as follows:  
 1. `Ensembles-Preliminaries`: Code demonstrating the impact of ensemble size and diversity on accuracy.
+2. `Ensembles-Bagging`: Code for bagging and random subspace ensembles.
+
+`ensemble-functiions.py`: helper functions required by some of the notebooks. 
 
 ### Data files
 1. `wine.csv`: The wine dataset from the UCI repository.

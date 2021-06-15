@@ -6,6 +6,7 @@ The notebooks are as follows:
 3. `Ensembles-RandomF`: Using random forest to generate feature importance scores and OOB estimates of generalisation accuracy.
 4. `Ensembles-Boosting`: A simple AdaBoost example to illustrate the internal workings.
 5. `Ensembles-Hetero`: A heterogeneous ensemble with 7 estimators complared with a bagging ensemble.
+6. `Ensemble-Stacking`: A comparison of a heterogeneous with some stacking alternatives.
 
 `ensemble_functions.py`: Some helper functions for ensembles.
 

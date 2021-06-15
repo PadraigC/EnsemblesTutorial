@@ -7,8 +7,6 @@ The notebooks are as follows:
 4. `Ensembles-Boosting`: A simple AdaBoost example to illustrate the internal workings.
 5. `Ensembles-Hetero`: A heterogeneous ensemble with 7 estimators complared with a bagging ensemble.
 
-`ensemble-functiions.py`: helper functions required by some of the notebooks. 
-
 ### Data files
 1. `wine.csv`: The wine dataset from the UCI repository.
 2. `HotelRevHelpfulness.csv`: The hotel review dataset - see: https://researchrepository.ucd.ie/handle/10197/1894

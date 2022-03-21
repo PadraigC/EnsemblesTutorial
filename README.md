@@ -12,6 +12,10 @@ The notebooks are as follows:
 `ensemble_functions.py`: Some helper functions for ensembles.
 
 ### Data files
+
+The `HotelRevHelpfulness`  and `AthleteSelection` datasets are made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+
+
 1. `wine.csv`: The wine dataset from the UCI repository.
 2. `HotelRevHelpfulness.csv`: The hotel review dataset - see: https://researchrepository.ucd.ie/handle/10197/1894
 3. `AthleteSelection.csv`: A toy dataset with just two predictive features.

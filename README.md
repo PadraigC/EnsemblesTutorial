@@ -14,6 +14,7 @@ The notebooks are as follows:
 ### Data files
 
 The `HotelRevHelpfulness`  and `AthleteSelection` datasets are made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+The `wine` dataset is covered by the copyright provisions of the UCI respoitory.
 
 
 1. `wine.csv`: The wine dataset from the UCI repository.
